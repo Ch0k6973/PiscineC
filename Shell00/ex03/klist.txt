@@ -1,0 +1,5 @@
+Credentials cache: API:E782D047-C0DB-4DB0-81B9-EB85F97A8995
+        Principal: alamonta@42.FR
+
+  Issued                Expires               Principal
+Sep  8 07:46:44 2020  Sep 15 07:46:44 2020  krbtgt/42.FR@42.FR
